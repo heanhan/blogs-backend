@@ -1,0 +1,11 @@
+/.idea/
+/commons/target/classes/com/zjh/commons/enums/CommonEnum.class
+/commons/target/classes/com/zjh/commons/exceptins/BaseErrorInfoInterface.class
+/commons/target/classes/com/zjh/commons/exceptins/BizException.class
+/commons/target/classes/com/zjh/commons/result/ResultBody.class
+/commons/target/classes/com/zjh/commons/utils/Test.class
+/commons/target/classes/application.yml
+/commons/target/maven-archiver/pom.properties
+/commons/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/commons/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/commons/target/commons-0.0.1-SNAPSHOT.jar
